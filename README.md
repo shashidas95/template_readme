@@ -92,7 +92,10 @@ Docker is a popular platform for developing, shipping and running applications i
    ```
    docker pull IMAGE_NAME
    ```
-   
+   example :
+   ```
+     docker pull alpine:20230901
+   ```
 9. **Remove an Image:**
    ```
    docker rmi IMAGE_NAME
